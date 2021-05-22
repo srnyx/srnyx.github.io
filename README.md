@@ -2,11 +2,12 @@
 You can view all of my templates here and get direct links to each of them!
 
 ## Discord Templates
-1. [Simple Server Template](https://temp.srnyx.xyz/simple)
-2. [Simple Gaming Template](https://temp.srnyx.xyz/gaming)
-3. [Simple Classroom Template](https://temp.srnyx.xyz/classroom)
-4. [Simple Study Group Template](https://temp.srnyx.xyz/studygroup)
-5. [Simple Personal Template](https://temp.srnyx.xyz/personal)
+1. [Home](https://www.discord.style/user/242385234992037888)
+2. [Simple Server Template](https://temp.srnyx.xyz/simple)
+3. [Simple Gaming Template](https://temp.srnyx.xyz/gaming)
+4. [Simple Classroom Template](https://temp.srnyx.xyz/classroom)
+5. [Simple Study Group Template](https://temp.srnyx.xyz/studygroup)
+6. [Simple Personal Template](https://temp.srnyx.xyz/personal)
 
 ## Minecraft Server Templates
 1. [Home](https://temp.srnyx.xyz/mc)
