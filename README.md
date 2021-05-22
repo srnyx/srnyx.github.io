@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to srnyx's Templates
 
-You can use the [editor on GitHub](https://github.com/srnyx/srnyx.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can view all of my templates here and get direct links to each of them!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Discord Templates
+_Sorted by uses_
+1. Simple Server Template
+2. Simple Gaming Template
+3. Simple Classroom Template
+4. Simple Study Group Template
+5. Simple Personal Template
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/srnyx/srnyx.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Minecraft Server Templates
+_Sorted by version_
+1. Fabric 1.17
+2. Fabric 1.16.5
+3. Paper-Spigot 1.16.5
+4. Paper-Spigot 1.8.8
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with my templates? [Contact support](https://srnyx.xyz/discord) and we’ll help you sort it out.
