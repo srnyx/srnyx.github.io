@@ -21,8 +21,10 @@ header a.button1 {
   position: absolute;
   top: 0;
   right: 0;
-  background: black url(https://img.chrizftw.cf/r/kowz3xf9e9a.png) 0 0 no-repeat;
+  background: transparent 0 0 no-repeat;
+  border: 1px solid white;
 }
+
 aside a.button1 {
   display: block;
   width: 138px;
@@ -61,7 +63,7 @@ aside#sidebar a.button1 {
 
 
 
-  header a.button1 {
+  header a.button {
     position: relative;
     display: inline-block;
     width: auto;
@@ -78,7 +80,7 @@ aside#sidebar a.button1 {
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
   }
-  header a.button1 small {
+  header a.button small {
     display: inline;
     font-size: 13px;
   }
