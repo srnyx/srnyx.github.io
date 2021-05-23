@@ -1,8 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Architects+Daughter');
+
+
+
 header a.button1 {
   position: absolute;
   top: 0;
   right: 0;
-  background: transparent url(../images/github-button.png) 0 0 no-repeat;
-  border-radius: 30px;
-  border: 1px solid white;
+  background: transparent url(https://srnyx.github.io/assets/images/github-button.png) 0 0 no-repeat;
+
 }
