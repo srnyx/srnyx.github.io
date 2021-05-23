@@ -3,7 +3,7 @@
 
 
 
-a.button {
+a.button1 {
   width: 134px;
   height: 58px;
   padding-top: 22px;
@@ -13,17 +13,17 @@ a.button {
   line-height: 1.2;
   color: #fff;
 }
-a.button small {
+a.button1 small {
   display: block;
   font-size: 11px;
 }
-header a.button {
+header a.button1 {
   position: absolute;
   top: 0;
   right: 0;
-  background: transparent url(../images/github-button.png) 0 0 no-repeat;
+  background: transparent url(https://srnyx.github.io/assets/images/github-button.png) 0 0 no-repeat;
 }
-aside a.button {
+aside a.button1 {
   display: block;
   width: 138px;
   padding-left: 64px;
@@ -32,18 +32,25 @@ aside a.button {
   background: transparent url(../images/download-button.png) 0 0 no-repeat;
 }
 
-
-
-
-
-
-header a.button1 {
-  position: absolute;
-  top: 0;
-  right: 0;
-  background: transparent url(https://srnyx.github.io/assets/images/github-button.png) 0 0 no-repeat;
-
+aside#sidebar a.button1 {
+    display: none;
+  }
+  #main-content h1:before,
+  #main-content h2:before,
+  #main-content h3:before,
+  #main-content h4:before,
+  #main-content h5:before,
+  #main-content h6:before {
+    padding-right: 0;
+    margin-left: 0;
+    content: none;
+  }
 }
+
+
+
+
+
 
 
 
