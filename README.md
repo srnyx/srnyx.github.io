@@ -13,5 +13,5 @@
 4. [Paper-Spigot 1.16.5](https://github.com/srnyx/mc-server-templates/tree/main/Paper-Spigot%201.16.5)
 5. [Paper-Spigot 1.8.8](https://github.com/srnyx/mc-server-templates/tree/main/Paper-Spigot%201.8.8)
 
-# Support or Contact
+# Support
 Having trouble with my templates? [Contact support](https://srnyx.xyz/discord) and we’ll help you sort it out.
