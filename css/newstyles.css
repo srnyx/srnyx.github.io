@@ -21,9 +21,9 @@ header a.button1 {
   position: absolute;
   top: 0;
   right: 0;
-  background: transparent 0 0 no-repeat;
-  border: 5px solid white;
-  border-radius: 16px;
+  background: url(https://img.chrizftw.cf/r/kp2z6okzu9a.png) 0 0 no-repeat;
+ /* border: 5px solid white; */
+ /* border-radius: 16px; */
 }
 
 aside a.button1 {
