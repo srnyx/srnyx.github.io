@@ -1,6 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Architects+Daughter');
 
 
+header {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  background: #2e7bcf url(https://img.chrizftw.cf/r/kp37gslj39a.png) 0 0 repeat-x;
+  border-bottom: solid 1px #275da1;
+}
+
 
 
 a.button1 {
@@ -17,6 +25,10 @@ a.button1 small {
   display: block;
   font-size: 11px;
 }
+
+
+
+
 header a.button1 {
   position: absolute;
   top: 0;
@@ -25,6 +37,9 @@ header a.button1 {
  /* border: 5px solid white; */
  /* border-radius: 16px; */
 }
+
+
+
 
 aside a.button1 {
   display: block;
