@@ -22,7 +22,8 @@ header a.button1 {
   top: 0;
   right: 0;
   background: transparent 0 0 no-repeat;
-  border: 1px solid white;
+  border: 5px solid white;
+  border-radius: 16px;
 }
 
 aside a.button1 {
